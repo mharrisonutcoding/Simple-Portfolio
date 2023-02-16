@@ -1,0 +1,23 @@
+{
+  "name": "simple-portfolio",
+  "version": "1.0.0",
+  "description": "Simple portfolio for my body of work so far utilizing only HTML, CSS, and some JS.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharrisonutcoding/Simple-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharrisonutcoding/Simple-Portfolio/issues"
+  },
+  "homepage": "https://github.com/mharrisonutcoding/Simple-Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
